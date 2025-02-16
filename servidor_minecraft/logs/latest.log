@@ -102,3 +102,132 @@
 [23:13:42] [Server thread/INFO]: [Betoven: Applied effect Instant Health to Betoven]
 [23:13:49] [Server thread/INFO]: Betoven issued server command: /tp .Sigmagiga4
 [23:13:49] [Server thread/INFO]: [Betoven: Teleported Betoven to .Sigmagiga4]
+[23:14:06] [localSession-7-3/INFO]: [Geyser-Spigot] Sigmagiga4 has disconnected from the Java server because of Bedrock client timed out
+[23:14:06] [Geyser Spigot connection thread-6-4/INFO]: [floodgate] Floodgate player logged in as .Sigmagiga4 disconnected
+[23:14:07] [Server thread/INFO]: .Sigmagiga4 lost connection: Disconnected
+[23:14:07] [Server thread/INFO]: .Sigmagiga4 left the game
+[23:14:34] [Server thread/INFO]: Betoven issued server command: /time set day
+[23:14:34] [Server thread/INFO]: [Betoven: Set the time to 1000]
+[23:14:40] [epollEventLoopGroup-4-3/INFO]: [Geyser-Spigot] Player connected with username Sigmagiga4
+[23:14:40] [localSession-7-4/INFO]: [Geyser-Spigot] Sigmagiga4 (logged in as: Sigmagiga4) has connected to the Java server
+[23:14:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Sigmagiga4 joined (UUID: 00000000-0000-0000-0009-01fb654cf42b)
+[23:14:41] [Server thread/INFO]: .Sigmagiga4 joined the game
+[23:14:41] [Server thread/INFO]: .Sigmagiga4[/127.0.0.1:0] logged in with entity id 1578 at ([world]148.17119, 95.0, 57.003593)
+[23:16:08] [localSession-7-4/INFO]: [Geyser-Spigot] Sigmagiga4 has disconnected from the Java server because of Bedrock client timed out
+[23:16:08] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .Sigmagiga4 disconnected
+[23:16:08] [Server thread/INFO]: .Sigmagiga4 lost connection: Disconnected
+[23:16:08] [Server thread/INFO]: .Sigmagiga4 left the game
+[23:17:20] [Server thread/INFO]: Betoven lost connection: Disconnected
+[23:17:20] [Server thread/INFO]: Betoven left the game
+[23:18:42] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Sigmagiga4
+[23:18:42] [localSession-7-1/INFO]: [Geyser-Spigot] Sigmagiga4 (logged in as: Sigmagiga4) has connected to the Java server
+[23:18:42] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Sigmagiga4 joined (UUID: 00000000-0000-0000-0009-01fb654cf42b)
+[23:18:42] [Server thread/INFO]: .Sigmagiga4 joined the game
+[23:18:42] [Server thread/INFO]: .Sigmagiga4[/127.0.0.1:0] logged in with entity id 1842 at ([world]152.01837, 96.0, 56.248528)
+[23:18:58] [User Authenticator #4/INFO]: UUID of player Betoven is 619cac40-0856-313e-abeb-83b7771066f5
+[23:19:00] [Server thread/INFO]: Betoven joined the game
+[23:19:00] [Server thread/INFO]: Betoven[/127.255.16.190:35195] logged in with entity id 1885 at ([world]162.32798761200883, 97.0, 70.93622276691502)
+[23:19:13] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 7.326859999999982,0.0,7.061022000000001
+[23:19:37] [Server thread/INFO]: Betoven fell from a high place
+[23:20:32] [Server thread/INFO]: Betoven issued server command: /gamemode survival
+[23:20:32] [Server thread/INFO]: [Betoven: Set own game mode to Survival Mode]
+[23:20:42] [Server thread/INFO]: Betoven issued server command: /deop Betoven
+[23:20:42] [Server thread/INFO]: [Betoven: Made Betoven no longer a server operator]
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.272269999999992,1.252200000000002,8.864289999999997
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
+[23:23:16] [Server thread/WARN]: .Sigmagiga4 moved too quickly! 10.073169999999976,1.2491799999999955,8.671043999999995
